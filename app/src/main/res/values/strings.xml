@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertApp</string>
+    <string name="text">Hello Macia</string>
+    <string name="exitButton">EXIT</string>
+</resources>
